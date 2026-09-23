@@ -35,3 +35,6 @@ An interactive Bakery Sales Dashboard created using Microsoft Power BI to analyz
 ## 👨‍💻 Author
 
 Sabarigiri
+## 📷 Dashboard Preview
+
+![Bakery Sales Dashboard](Screenshot%202026-09-24%20001221.png)
